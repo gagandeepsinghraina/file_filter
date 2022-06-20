@@ -1,1 +1,1 @@
-select * from table;
+select * from bad_table;
